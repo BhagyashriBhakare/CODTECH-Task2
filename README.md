@@ -11,3 +11,4 @@ Duration:July 5th 2024 to August 5th 2024
 
 OVERVIEW OF THE PROJECT
 Blogging Paltform Web Application
+
